@@ -1,0 +1,2 @@
+0001-perf-python-Fix-compile-for-32bit-platforms.patch -p1
+0001-arm-Remove-build-path-from-generated-mach-types.h.patch -p1
